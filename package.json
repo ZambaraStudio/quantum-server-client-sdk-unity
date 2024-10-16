@@ -1,0 +1,35 @@
+{
+  "name": "com.zambara.quantum.client",
+  "version": "0.0.1",
+  "description": "Quantum server client sdk for unity game engine.",
+  "displayName": "Quantum Server Client SDK Unity",
+  "unity": "2018.4",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "Unity",
+    "Unity3d",
+    "Multiplayer",
+    "Realtime",
+    "socket.io",
+    "WebSocket",
+    "Connection",
+    "tcp",
+    "events",
+    "socket",
+    "io"
+  ],
+  "dependencies": {
+  },
+  "license": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZambaraStudio/quantum-game-server-sdk-unity"
+  },
+  "author": {
+    "name": "zambara",
+    "email": "",
+    "url": "https://www.zambara.com"
+  }
+}
