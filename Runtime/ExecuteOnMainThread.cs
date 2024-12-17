@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Collections.Concurrent;
 using UnityEngine;
 
-namespace QuantumServerClient
+namespace Quantum
 {
 
     public class ExecuteOnMainThread : MonoBehaviour
